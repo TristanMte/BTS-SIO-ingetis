@@ -7,24 +7,22 @@ body{
 
 button{
     width: 250px;
-    border: 2px solid #FFA101;
+    border: 2px solid #ffa101;
     font-weight: bold;
     border-radius: 26px;
     background-color: #31525B;
-    color: #31525B;
-    text-shadow: #FFA101 1px 1px, #FFA101 -1px 1px, #FFA101 -1px -1px, #FFA101 1px -1px;
+    color: #ffa101;
     height: 50px;
-    margin-top: 10px;
+    margin-top: 20px;
     box-shadow: 25px;
 }
 
 button:hover {
-    background-color: #FFA101;
-    color: #FFA101 ;
-    border: 3px solid #31525B;
-    transform: rotate(2deg);
+    background-color: #31525B;
+    color: #ffa101;
+    border: 3px solid #ffa101;
+    transform: rotate(5deg);
     cursor: pointer;
-    text-shadow: #31525B 1px 1px, #31525B -1px 1px, #31525B -1px -1px, #31525B 1px -1px;
 }
 
 div{
