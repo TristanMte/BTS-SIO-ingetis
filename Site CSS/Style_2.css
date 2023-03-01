@@ -24,8 +24,7 @@ button{
     font-weight: bold;
     border-radius: 26px;
     background-color: #31525B;
-    color: #31525B;
-    text-shadow: #ffa101 1px 1px, #ffa101 -1px 1px, #ffa101 -1px -1px, #ffa101 1px -1px;
+    color: #ffa101;
     height: 50px;
     margin-top: 20px;
     box-shadow: 25px;
@@ -33,11 +32,10 @@ button{
 
 button:hover {
     background-color: #ffa101;
-    color: #ffa101;
+    color: #31525B;
     border: 3px solid #31525B;
     transform: rotate(5deg);
     cursor: pointer;
-    text-shadow: #31525B 1px 1px, #31525B -1px 1px, #31525B -1px -1px, #31525B 1px -1px;
 }
 
 h2{

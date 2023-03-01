@@ -16,8 +16,7 @@ button{
     font-weight: bold;
     border-radius: 26px;
     background-color: #31525B;
-    color: #31525B;
-    text-shadow: #FFA101 1px 1px, #FFA101 -1px 1px, #FFA101 -1px -1px, #FFA101 1px -1px;
+    color: #FFA101;
     height: 50px;
     margin-top: 20px;
     box-shadow: 25px;
@@ -25,9 +24,8 @@ button{
 
 button:hover {
     background-color: #FFA101;
-    color: #FFA101 ;
+    color: #31525B ;
     border: 3px solid #31525B;
     transform: rotate(5deg);
     cursor: pointer;
-    text-shadow: #31525B 1px 1px, #31525B -1px 1px, #31525B -1px -1px, #31525B 1px -1px;
 }
