@@ -103,7 +103,7 @@ nav ul li{
     position: relative;
 }
 
-/* .mobile{
+.mobile{
     display: none;
 }
 
@@ -131,6 +131,7 @@ nav input [type=checkbox]:checked ~ ul{
     nav ul li, nav ul li a{
         width: 100%;
         text-align: center;
+        float: none;
     }
 
     nav ul li a, nav ul li:hover a{
@@ -141,4 +142,4 @@ nav input [type=checkbox]:checked ~ ul{
         display: block;
         position: static;
     }
-} */
+} 
