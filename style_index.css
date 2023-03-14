@@ -4,6 +4,10 @@ body{
     text-align: center;
 }
 
+.contact{
+font-size:15px;
+}
+
 marquee{
     font-size: medium;
 }
