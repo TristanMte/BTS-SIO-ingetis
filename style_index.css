@@ -4,12 +4,12 @@ body{
     text-align: center;
 }
 
-.contacter{
-font-size:15px;
+#contact{
+   font-size: 15px; 
 }
 
 marquee{
-    font-size: medium;
+    font-size: 15px;
 }
 
 img{
