@@ -41,7 +41,7 @@ div#menu ul.niveau1 li.sousmenu:hover ul.niveau2,
 div#menu ul.niveau2 li.sousmenu:hover ul.niveau3 {display: block;}
 
 div#menu a{
-    color: #31525B;
+    color: #303030;
 }
 
 div#menu li:hover{
