@@ -5,7 +5,7 @@ body{
 }
 
 div{
-    border: 2px solid #ffa101;
+    border: 2px solid #303030;
     float: left;
     margin-right: 10px;
     margin-top: 5px;
@@ -13,16 +13,16 @@ div{
 }
 
 h1{
-    color: #ffa101;
+    color: #303030;
 }
 
 h2{
-    color: #ffa101;
+    color: #303030;
 }
 
 h3{
     text-align: center;
-    color: #ffa101;
+    color: #303030;
 }
 
 .c0{
@@ -61,7 +61,7 @@ h3{
 }
 
 .c4{
-    background-color: #31525B;
+    background-color: whitesmoke;
     width: 75%;
     text-align: center;
     margin-top: 20px;
@@ -71,5 +71,5 @@ h3{
 .c5{
     background-color: whitesmoke;
     width: 100%;
-    border: 1px solid #31525B;
+    border: 1px solid #303030;
 }
