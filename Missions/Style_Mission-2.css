@@ -2,13 +2,13 @@ body{
     width: 100vw;
     height: 100vh;
     background-color: whitesmoke;
-    color: #31525b;
+    color: #303030;
     margin: 0px;
 }
 
 .header{
     height:10px;
-    background: #31525b;
+    background: #303030;
 } 
 
 .identite
