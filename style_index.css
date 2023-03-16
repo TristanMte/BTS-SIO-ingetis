@@ -34,7 +34,7 @@ nav ul::after{
 nav{
     width: 100%;
     margin: 0 auto;
-    background-color: #31525B;
+    background-color: #303030;
     position: sticky;
     top: 0px;
 }
@@ -43,21 +43,21 @@ nav a{
     display: inline-block;
     text-decoration: none;
     padding: 10px 0px;
-    color: #FFA101;
+    color: #F5F5F5;
     border-bottom: 2px;
 }
 
 nav a:hover{
-    color: #31525B;
-    border-bottom: 2px solid whitesmoke;
-    background-color: #FFA101;
+    color: #303030;
+    border-bottom: 2px solid #303030;
+    background-color: #f5f5f5;
 }
 
 .sous{
     display: none;
-    box-shadow: 0px 1px 2px whitesmoke;
-    color: #FFA101;
-    background-color: #31525B;
+    box-shadow: 0px 1px 2px #303030;
+    color: whitesmoke;
+    background-color: #303030;
     position: absolute;
     width: 100%;
     z-index: 10000;
