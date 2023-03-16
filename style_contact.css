@@ -19,20 +19,20 @@ h1{
 
 button{
     width: 250px;
-    border: 2px solid #FFA101;
+    border: 2px solid whitesmoke;
     font-weight: bold;
     border-radius: 26px;
-    background-color: #31525B;
-    color: #FFA101;
+    background-color: #303030;
+    color: whitesmoke;
     height: 50px;
     margin-top: 20px;
     box-shadow: 25px;
 }
 
 button:hover {
-    background-color: #FFA101;
-    color: #31525B ;
-    border: 3px solid #31525B;
+    background-color: whitesmoke;
+    color: #303030 ;
+    border: 3px solid #303030;
     transform: rotate(5deg);
     cursor: pointer;
 }
