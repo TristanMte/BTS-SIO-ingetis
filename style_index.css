@@ -85,8 +85,8 @@ nav > ul li:hover .sous{
 
 .sous a:hover{
     border-bottom: none;
-    background-color: #FFA101;
-    color:#31525B;
+    background-color: #F5f5f5;
+    color:#303030;
 }
 
 nav ul li{
